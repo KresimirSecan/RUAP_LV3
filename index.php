@@ -106,7 +106,7 @@
     // DB connection info
     $host = "lv3-bae7bcftc4djbvdw.northeurope-01.azurewebsites.net";
     $user = "gfboqjixbv";
-    $pwd = "wHvUbEr2\$balqW0R";
+    $pwd = "wHvUbEr2$balqW0R";
     $db = "lv3-database";
 
     // Connect to database.
